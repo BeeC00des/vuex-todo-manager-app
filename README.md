@@ -20,9 +20,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vuex-todo-manager-app
->>>>>>> 107f0f15a71ca9b62fa0f9c03015c36272ce8c42
